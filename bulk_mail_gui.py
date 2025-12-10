@@ -12,8 +12,8 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
 # ---------------- HARDCODED SENDER ----------------
-SENDER_EMAIL = "avimuktaip@gmail.com"
-SENDER_APP_PASSWORD = "hnzrtcauftoqwfun"
+SENDER_EMAIL = "yourEmail@gmail.com"
+SENDER_APP_PASSWORD = "16DigitCode"
 # --------------------------------------------------
 
 class SafeDict(dict):
